@@ -1,22 +1,17 @@
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frustyshackleford36%2Flocatarr&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rustyshackleford36/locatarr/issues)
-
-<a href="https://www.buymeacoffee.com/locatarr"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=locatarr&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff"></a>
+# Locatarr
+**This is a fork! View the original version [here](https://github.com/BrenekH/locatarr)**
 
 
-# locatarr - Why? 
-Not all inclusive -- please feel free to update as you see fit!
+Locatarr is a list of services that can be used with Jellyfin and Plex users. This list is not 100% accurate or up-to-date. 
 
-All services are supported on Windows, macOS, Linux, and Docker unless otherwise noted. 
+*All services are supported on Windows, macOS, Linux, and Docker unless otherwise noted. 
 
 # *ARR Services
 
 | **Service**                   | **Usage**                                                                                                                                             | **Github**                                                            | **Reddit**                                  |
 |-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------|
-| Addarr                        | Telegram bot for Sonarr/Radarr                                                                                                                        | [Waterboy1602/Addarr](https://github.com/Waterboy1602/Addarr)         |                                             |
-| Bazarr                        | Automates & manages **subtitles**                                                                                                                     | [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr)       |                                             |
+| Addarr                        | Telegram bot for Sonarr/Radarr                                                                                                                        | [Waterboy1602/Addarr](https://github.com/Waterboy1602/Addarr)  |  |
+| Bazarr                        | Automates & manages **subtitles**                                                                                                                     | [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr)
 | Bobarr                        | Radarr+Sonarr+Jackett+VPN                                                                                                                             | [iam4x/bobarr](https://github.com/iam4x/bobarr)                       |                                             |
 | Bonarr<br>_(yes, seriously!)_ | Automates & manages **adult movies**                                                                                                                  | [bonarr/Bonarr](https://github.com/bonarr/Bonarr)                     |                                             |
 | Cardigann                     | Alternative to Jackett                                                                                                                                | [cardigann/cardigann](https://github.com/cardigann/cardigann)         |                                             |
@@ -29,6 +24,7 @@ All services are supported on Windows, macOS, Linux, and Docker unless otherwise
 | Lidarr                        | Automates & manages **music**                                                                                                                         | [lidarr/lidarr](https://github.com/lidarr/lidarr)                     | [/r/lidarr](http://reddit.com/r/lidarr)     |
 | Listrr                        | Automates lists on trakt.tv based on your filters.                                                                                                    | [TheUltimateC0der/Listrr](https://github.com/TheUltimateC0der/Listrr) |                                             |
 | Logarr                        | A log consolidation tool written in PHP                                                                                                               | [Monitorr/logarr](https://github.com/Monitorr/logarr)                 |                                             |
+| Homarr                        | Highly customizable webfront to monitor and management webapps and services.                                                                                                                | [ajnart/homarr](https://github.com/ajnart/homarr)                 |                                             |
 | Monitorr                      | A webfront to live display the status of any webapp or service                                                                                        | [Monitorr/Monitorr](https://github.com/Monitorr/Monitorr)             |                                             |
 | Movearr                       | Simple CLI tool to perform Sonnar/Radarr moves based on specific criteria.                                                                            | [l3uddz/movearr](https://github.com/l3uddz/movearr)                   |                                             |
 | Mylarr                        | Automates & manages **comic books**                                                                                                                   | [mylar3/mylar3](https://github.com/mylar3/mylar3)                     |                                             |
